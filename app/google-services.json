@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "342215280077",
+    "firebase_url": "https://dealsnotification.firebaseio.com",
+    "project_id": "dealsnotification",
+    "storage_bucket": "dealsnotification.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342215280077:android:7b516859fa04d411",
+        "android_client_info": {
+          "package_name": "com.chau.michael.dealsnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342215280077-gbb4vkv2ui4ge10h18l1p9lt0b3l2j4j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYVKrxdWnvBXKwzdef8_QHCQHzB_kqzG8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
